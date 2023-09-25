@@ -1,6 +1,6 @@
 # Hi, I'm RAJAT KUMAR SWAIN! 👋
 
-I'm a passionate Oracle developer based in [Your Location]. I specialize in Oracle database technologies and have a strong background in developing robust database solutions. My expertise extends to database design, SQL programming, and optimizing database performance.
+I'm a passionate Oracle developer based in [Bhubaneswar](Bhubaneswar). I specialize in Oracle database technologies and have a strong background in developing robust database solutions. My expertise extends to database design, SQL programming, and optimizing database performance.
 
 ## About Me
 
@@ -11,25 +11,25 @@ I'm a passionate Oracle developer based in [Your Location]. I specialize in Orac
 
 ## Education
 
-- 🎓 Bachelor of Science in Computer Science, [Your University], [Graduation Year]
+- 🎓 I did my Graduation in Engineering , [Biju Pattnaik University Of Tecchnology], [2015-2018]
 
 ## Experience
 
 ### Logran Technologies Pvt. Ltd (Nov 2019 - Jan 2023)
 
-- Worked as an Oracle Developer, specializing in database design, SQL development, and performance tuning.
+- Worked as an Software Engineer, specializing in database design, SQL development, and performance tuning.
 - Collaborated on [LLMS Project].
 - 
 
 ### Agreeya Solutions (Jan 2023 - June 2023)
 
-- Served as an Oracle Developer, focusing on database development and optimization.
-- [ at Agreeya Solutions]
+- Served as an Oracle PLSQL Developer, focusing on database development and optimization.
+- [PRODUCT:- REVERA at Agreeya Solutions]
 
 ### QualTech Edge (Aug 2023 - Present)
 
-- Currently working as an Oracle Developer, contributing to database-related projects and ensuring optimal database performance.
-- [Describe your current responsibilities and projects at QualTech Edge]
+- Currently working as an Enhineering Analyst , contributing to database-related projects and ensuring optimal database performance.
+- [Product :-MIFIN  at QualTech Edge]
 
 ## My GitHub Stats
 
@@ -37,7 +37,7 @@ I'm a passionate Oracle developer based in [Your Location]. I specialize in Orac
 
 ## Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) for professional networking and collaboration opportunities.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rajat-kumar-swain-808b84259/) for professional networking and collaboration opportunities.
 
 Thanks for visiting my GitHub profile! 🚀
 
