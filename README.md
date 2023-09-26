@@ -28,7 +28,7 @@ I'm a passionate Oracle developer based in [Bhubaneswar](Bhubaneswar). I special
 
 ### QualTech Edge (Aug 2023 - Present)
 
-- Currently working as an Enhineering Analyst , contributing to database-related projects and ensuring optimal database performance.
+- Currently working as an Engineering Analyst , contributing to database-related projects and ensuring optimal database performance.
 - [Product :-MIFIN  at QualTech Edge]
 
 ## My GitHub Stats
