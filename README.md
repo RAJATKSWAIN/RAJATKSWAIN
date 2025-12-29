@@ -26,7 +26,7 @@ I'm a passionate Oracle developer based in [Bhubaneswar](Bhubaneswar). I special
 - Served as an Oracle PLSQL Developer, focusing on database development and optimization.
 - [PRODUCT:- REVERA at Agreeya Solutions]
 
-### QualTech Edge (Aug 2023 - Present)
+### QualTech Edge (Aug 2023 - Sept-2025)
 
 - Currently working as an Engineering Analyst , contributing to database-related projects and ensuring optimal database performance.
 - [Product :-MIFIN  at QualTech Edge]
