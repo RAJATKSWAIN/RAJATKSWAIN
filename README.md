@@ -318,7 +318,7 @@ Key Contributions:
 ---
 
 <details>
-<summary><b>Logran Technologies — Software Engineer (Nov 2019 – Jan 2023)</b></summary>
+<summary><b>Logran Technologies — Software Engineer (Nov 2021 – Jan 2023)</b></summary>
 
 Project: **LLMS – Loan Lifecycle Management System**
 
