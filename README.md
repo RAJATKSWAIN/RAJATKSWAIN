@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-📍 <strong>Hitech City, Hyderabad</strong> &nbsp;•&nbsp; 🏢 <strong>Senior Software Engineer</strong>
+📍 <strong>Hitech City, Hyderabad</strong> &nbsp;•&nbsp; 🏢 <strong>Senior Software Engineer</strong> &nbsp;•&nbsp; 💼 <strong>4+ Years of Experience</strong>
 </p>
 
 <p align="center">
@@ -22,16 +22,49 @@
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
-I am a **Senior Software Engineer** specializing in **Oracle Database technologies** and **enterprise data systems**. I design and build **scalable, high-performance database architectures** powering critical enterprise platforms across:
+I am **Rajat Kumar Swain**, an Oracle Developer · Database Engineer · PL/SQL Specialist with **4+ years of experience** building enterprise applications and high-volume transactional systems. I specialize in Oracle Database technologies, PL/SQL development, SQL Performance Tuning, and Enterprise Database Engineering for mission-critical platforms.
+
+Throughout my career, I have delivered scalable solutions across the BFSI, Digital Lending, Airline Accounting, Regulatory Compliance, and Digital Signature domains, with hands-on experience in miFIN, Loan Origination Systems (LOS), Loan Management Systems (LMS), Financial Reconciliation, and Regulatory Reporting.
+
+<p align="center"> <img src="https://img.shields.io/badge/Oracle%2011g%20%7C%2012c%20%7C%2019c-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/PL%2FSQL-FF6B00?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Tuning-1565C0?style=for-the-badge&logo=speedtest&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/> </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Digital%20Lending-0078D4?style=flat-square&logo=bank&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airline%20Accounting-00A4EF?style=flat-square&logo=airbus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Regulatory%20Compliance-FF6B00?style=flat-square&logo=googledocs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Digital%20Signatures-00C853?style=flat-square&logo=adobesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Financial%20Reconciliation-7B1FA2?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RBI%20Compliance-FF6F00?style=for-the-badge&logo=googledocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airline%20Accounting-00A4EF?style=for-the-badge&logo=airbus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital%20Signatures-00C853?style=for-the-badge&logo=adobesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Tuning-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
+
+---
+
+### 🌐 Industry Domains
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/BFSI-004B87?style=flat-square&logo=visa&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Digital%20Lending-0078D4?style=flat-square&logo=bankofamerica&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/miFIN-1E88E5?style=flat-square&logo=cashapp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/LOS-1565C0?style=flat-square&logo=databricks&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/LMS-6A1B9A?style=flat-square&logo=googleclassroom&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Financial%20Reconciliation-7B1FA2?style=flat-square&logo=stripe&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/RBI%20Compliance-FF6F00?style=flat-square&logo=googledocs&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Airline%20Accounting-00A4EF?style=flat-square&logo=airbus&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Digital%20Signatures-00C853?style=flat-square&logo=adobesign&logoColor=white"/> 
+</p>
+
+---
+
+### 🚀 What I Do
+- Architect and develop enterprise-grade Oracle database solutions.
+- Build PL/SQL Packages, Procedures, Functions, Triggers, Collections, and Schedulers.
+- Perform SQL Optimization, Query Tuning, and Execution Plan Analysis.
+- Develop and support LOS, LMS, Financial Reconciliation, and Regulatory Reporting workflows.
+- Automate database operations using Shell Scripting, SQL Loader, and Oracle utilities.
+- Provide production support for high-volume transactional enterprise applications.
+
+---
 
 ### 🚀 Core Competencies
 
@@ -108,6 +141,27 @@ I am a **Senior Software Engineer** specializing in **Oracle Database technologi
 
 ---
 
+### 🤖 AI-Assisted Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-Exploring-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+I use AI-assisted development tools to enhance productivity in:
+- **SQL Query Optimization** - Leveraging AI for query analysis and performance tuning suggestions
+- **PL/SQL Code Generation** - Accelerating development of stored procedures and packages
+- **Documentation** - Automating technical documentation and code comments
+- **Debugging** - AI-assisted troubleshooting and error resolution
+- **ETL Pipeline Design** - Exploring AI for data pipeline optimization
+- **Workflow Automation** - Using n8n for automated database workflows
+- **RAG & LLM Integration** - Exploring Retrieval-Augmented Generation for enterprise knowledge management
+
+I am continuously expanding my knowledge in **Generative AI, LLM integrations, prompt engineering, and AI-enabled enterprise applications**.
+
+---
 ## 🏢 Enterprise Systems Experience
 
 <p align="center">
@@ -121,34 +175,28 @@ I am a **Senior Software Engineer** specializing in **Oracle Database technologi
 
 ## 📊 GitHub Analytics
 
-> **Note:** To avoid API rate limits, the dynamic stats below use lightweight badges and services with aggressive caching. They show a snapshot of your public activity.
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/RAJATKSWAIN?label=Followers&style=for-the-badge&color=4FC3F7&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/github/stars/RAJATKSWAIN?label=Stars&style=for-the-badge&color=FFD700&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/github/watchers/RAJATKSWAIN/RAJATKSWAIN?label=Watchers&style=for-the-badge&color=00C853&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/github/repo-size/RAJATKSWAIN/RAJATKSWAIN?label=Repo%20Size&style=for-the-badge&color=FF6B00&logo=github&logoColor=white"/>
-</p>
+</p> <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJATKSWAIN&theme=github_dark&border_color=30363d" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJATKSWAIN&theme=aura&animation=draw"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAJATKSWAIN&theme=2077&animation=draw"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAJATKSWAIN&theme=2077&animation=draw"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RAJATKSWAIN&theme=2077&animation=draw"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RAJATKSWAIN&theme=2077&animation=draw&utcOffset=0"/>
 </p>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAJATKSWAIN&theme=github_dark&border_color=30363d" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAJATKSWAIN&theme=github_dark&border_color=30363d" alt="Most Commit Language"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJATKSWAIN&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAJATKSWAIN&theme=onedark&margin-w=12&row=1&column=6&no-frame=true" alt="Trophies"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
 ---
@@ -302,10 +350,10 @@ I am a **Senior Software Engineer** specializing in **Oracle Database technologi
 ## 🎓 Education
 
 <p align="center">
-<img src="https://img.shields.io/badge/B.E.-Biju%20Pattnaik%20University%20of%20Technology-004B87?style=for-the-badge&logo=graduationcap&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech.-Biju%20Pattnaik%20University%20of%20Technology-004B87?style=for-the-badge&logo=graduationcap&logoColor=white"/>
 </p>
 
-🎓 **Bachelor of Engineering**  
+🎓 **Bachelor of Technology**  
 Biju Pattnaik University of Technology  
 *2015 – 2018*
 
@@ -321,6 +369,24 @@ Biju Pattnaik University of Technology
 | **Database Design** | ██████████████████ 85% |
 | **Data Modeling** | ████████████████ 80% |
 | **ETL Processing** | ████████ 40% |
+
+---
+
+## 🌱 Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Integrations-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-FF4081?style=for-the-badge"/>
+</p>
+
+- Generative AI & LLM Integration
+- RAG (Retrieval-Augmented Generation) for Enterprise Knowledge
+- Prompt Engineering & AI-Assisted Development
+- Workflow Automation with n8n
+- AI-Powered ETL Pipelines
 
 ---
 
