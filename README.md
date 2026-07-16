@@ -24,9 +24,9 @@
 
 ### 🧑‍💻 About Me
 
-I am **Rajat Kumar Swain**, an Oracle Developer · Database Engineer · PL/SQL Specialist with **4+ years of experience** building enterprise applications and high-volume transactional systems. I specialize in Oracle Database technologies, PL/SQL development, SQL Performance Tuning, and Enterprise Database Engineering for mission-critical platforms.
+I am **Rajat Kumar Swain**, an **Oracle Developer · Database Engineer · PL/SQL Specialist** with **4+ years of experience** building enterprise applications and high-volume transactional systems. I specialize in **Oracle Database technologies**, **PL/SQL development**, **SQL Performance Tuning**, and Enterprise Database Engineering for mission-critical platforms.
 
-Throughout my career, I have delivered scalable solutions across the BFSI, Digital Lending, Airline Accounting, Regulatory Compliance, and Digital Signature domains, with hands-on experience in miFIN, Loan Origination Systems (LOS), Loan Management Systems (LMS), Financial Reconciliation, and Regulatory Reporting.
+Throughout my career, I have delivered scalable solutions across the BFSI, Digital Lending, Airline Accounting, Regulatory Compliance, and Digital Signature domains, with hands-on experience in **miFIN**, **Loan Origination Systems (LOS)**, **Loan Management Systems (LMS)**, **Financial Reconciliation**, and **Regulatory Reporting**.
 
 <p align="center"> <img src="https://img.shields.io/badge/Oracle%2011g%20%7C%2012c%20%7C%2019c-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/PL%2FSQL-FF6B00?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Tuning-1565C0?style=for-the-badge&logo=speedtest&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/> </p>
 
